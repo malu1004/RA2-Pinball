@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=3 uid="uid://b2ajqgwc4p6dp"]
+
+[ext_resource type="Script" path="res://addons/mpf-gmc/classes/mpf_slide.gd" id="1_1weho"]
+[ext_resource type="Texture2D" uid="uid://b3t5ccahqp8k7" path="res://slides/attract_1.jpg" id="2_e2hf0"]
+
+[node name="Attract" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_1weho")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+show_behind_parent = true
+position = Vector2(630, 520)
+scale = Vector2(1.07704, 1.07704)
+texture = ExtResource("2_e2hf0")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = -105.0
+offset_top = 364.0
+offset_right = 1474.0
+offset_bottom = 523.0
+theme_override_font_sizes/font_size = 50
+text = "Red Alert 2 - Pinball machine"
+horizontal_alignment = 1
+vertical_alignment = 1

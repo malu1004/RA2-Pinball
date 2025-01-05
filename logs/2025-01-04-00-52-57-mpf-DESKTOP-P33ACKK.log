@@ -1,0 +1,7 @@
+2025-01-04 00:52:57,571 : INFO : root : Loading config.
+2025-01-04 00:52:57,575 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-01-04 00:52:57,575 : INFO : ConfigProcessor : Loading config from cache: C:\Users\marcu\AppData\Local\Temp\62ffdcdfb903f5d0df8285e2704fd504.mpf_cache
+2025-01-04 00:52:57,665 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\marcu\Documents\RA2-Pinball\modes\attract\config\attract.yaml
+2025-01-04 00:52:57,665 : INFO : ConfigProcessor : Loading config from file C:\Users\marcu\mpf-env\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2025-01-04 00:52:57,667 : INFO : ConfigProcessor : Loading config: C:\Users\marcu\mpf-env\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2025-01-04 00:52:57,667 : INFO : ConfigProcessor : Loading config from file C:\Users\marcu\Documents\RA2-Pinball\modes\attract\config\attract.yaml.
